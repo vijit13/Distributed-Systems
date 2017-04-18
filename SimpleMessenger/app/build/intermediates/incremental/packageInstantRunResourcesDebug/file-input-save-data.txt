@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Feb 08 10:24:08 EST 2017
+1.base=/home/vijit/Downloads/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/vijit/Downloads/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.base=/home/vijit/Downloads/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/home/vijit/Downloads/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+count=4
+1.set=ANDROID_RESOURCE
+3.base=/home/vijit/Downloads/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/home/vijit/Downloads/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/vijit/Downloads/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldpi-v4/ic_launcher.png
+0.file=/home/vijit/Downloads/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml

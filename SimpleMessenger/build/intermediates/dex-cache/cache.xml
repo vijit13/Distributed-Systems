@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vijit/Downloads/SimpleMessenger/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="cd8f1427f00e8f84a6918b4a84adde995a58df37">
+        <dex dex="/home/vijit/Downloads/SimpleMessenger/app/build/intermediates/pre-dexed/debug/instant-run_48a501dfe3800c81d33e3544a72b9cdadd9cffc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijit/Downloads/SimpleMessenger/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="cae3a1c3491939bb8406fac8090a1e2e57b7ab03">
+        <dex dex="/home/vijit/Downloads/SimpleMessenger/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_6fec0bd7780dc7d971e177426308428776f98989.jar" />
+    </item>
+
+</items>
