@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vijit/Downloads/GroupMessenger2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f576dd3703c1e9d3e29c7b1421673293b7c2ee94">
+        <dex dex="/home/vijit/Downloads/GroupMessenger2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_fcc43a2b69d68caa2151e090a12e7d30e916a358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vijit/Downloads/GroupMessenger2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="737b7343c28a5825a95d24181cf8a4614d6c0c79">
+        <dex dex="/home/vijit/Downloads/GroupMessenger2/app/build/intermediates/pre-dexed/debug/instant-run_25debf41394e3b7e67ca58d903efc65218a08eff.jar" />
+    </item>
+
+</items>
